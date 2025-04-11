@@ -1,6 +1,6 @@
 # 🎲 Rolling The Dice - GUI App with Tkinter & Turtle
 
-**Made by Piyush Ghoshi**
+**Made by Piyush Ghoshi and Shreyansh Sahu**
 
 This is a fun little Python GUI app that rolls a pair of dice when you click a button. It combines the power of the `tkinter` library for the graphical user interface and `turtle` for a creative welcome screen animation that spells out **WELCOME** in red.
 
