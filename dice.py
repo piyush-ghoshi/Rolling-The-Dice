@@ -1,7 +1,7 @@
 #import the required libraries
 #tkinter library to create GUI
 #random library because we're randomly selecting numbers
-#MADE BY PIYUSH GHOSHI 
+#MADE BY PIYUSH GHOSHI AND SHREYANSH SAHU
 
 from tkinter import *
 import random
